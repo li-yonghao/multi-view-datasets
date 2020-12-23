@@ -22,3 +22,8 @@ multi-view (https://github.com/lslrh/multi-view)
 2019-PR-Sparse-Multi-view-clustering (https://github.com/sudalvxin/2019-PR-Sparse-Multi-view-clustering)
 
 Adaptive-Collaborative-Similarity-Learning-for-Unsupervised-Multi-view-Feature-Selection (https://github.com/Xiaodongsuper/Adaptive-Collaborative-Similarity-Learning-for-Unsupervised-Multi-view-Feature-Selection)
+
+Multi-view-Datasets (https://github.com/KunyuLin/Multi-view-Datasets)
+
+
+
