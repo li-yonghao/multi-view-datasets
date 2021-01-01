@@ -27,3 +27,4 @@ Multi-view-Datasets (https://github.com/KunyuLin/Multi-view-Datasets)
 
 NUS-WIDE (We also provide (1) a light version of NUS-WIDE dataset, named NUS-WIDE-LITE, (2) one object image dataset, named NUS-WIDE-OBJECT and (3) one scene image dataset, named NUS-WIDE-SCENE. The specifications of these three subsets are detailed in the paper.)(https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html)
 
+related papers (https://github.com/wangsiwei2010/awesome-multi-view-clustering)
